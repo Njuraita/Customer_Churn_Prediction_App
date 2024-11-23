@@ -19,7 +19,7 @@
 
 ## Churn Prediction App
 
-Churn Prediction App provides a platform for predicting the churn status of customers by leveraging historical data encompassing customer demographics, subscription details, account information, and their corresponding churn status.
+This is a web-based application built with Streamlit that predicts customer churn using machine learning models. The app allows users to upload customer data, preprocess it, and run predictions to identify which customers are at risk of leaving
 
 ## 🛠 Built With
 
