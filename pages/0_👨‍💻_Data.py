@@ -31,7 +31,7 @@ def data_page():
     # ---- Load remote dataset
     @st.cache_data(show_spinner='Loading data')
     def load_data():
-        df = pd.read_csv('C:\\Users\\HP ELITEBOOK 830 G5\\OneDrive\\Desktop\\Home Office\\Azubi Project\\GUI-Machine-Learning-App\\data\\dataset.csv')
+        df = pd.read_csv('data\cleaned_merged.csv')
         return df
 
     df = load_data().head(100)
