@@ -1,0 +1,16 @@
+credentials:
+  usernames:
+    user1:
+      name: Churn_Classifier_1
+      password: CL&331F13R_1
+    user2:
+      name: Churn_Classifier_2
+      password: CL&331F13R_2
+
+cookie:
+  name: 'Churn_Classifier'
+  key: 'CL&331F13R'
+  expiry_days: 30
+
+pre-authorized:
+  - preauthorized_user
