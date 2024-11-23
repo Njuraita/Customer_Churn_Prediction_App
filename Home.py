@@ -27,7 +27,7 @@ def main():
 
     st.write(
         """
-        Welcome to the **Customer Churn Prediction App**! Our app is designed to help businesses understand and predict customer churn using advanced data analysis and machine learning techniques.
+        Welcome to the **Customer Churn Prediction App**! This project is a web-based application that predicts customer churn using machine learning models. The app allows users/businessess to upload customer data, preprocess it, and run predictions to identify which customers are at risk of leaving/churning, helping the businessess take neccesssary action to prevent increased customer churn.
         """
     )
 
