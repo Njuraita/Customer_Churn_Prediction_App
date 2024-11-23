@@ -15,7 +15,7 @@
 - [🤝 Contributing](#-contributing)
 - [⭐️ Show Your Support](#-show-your-support-)
 - [🙏 Acknowledgments](#-acknowledgments)
-- [📝 License](#-license)
+- [📝 License](#-license.)
 
 ## Churn Prediction App
 
