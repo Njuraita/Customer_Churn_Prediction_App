@@ -38,31 +38,31 @@ This is a web-based application built with Streamlit that predicts customer chur
 
 To get a local copy up and running, follow these steps.
 
-## Prerequisites
+### Prerequisites
 
 In order to run this project you need:
 - Python
 - Streamlit
 
-## Setup
+### Setup
 
 Clone this repository to your desired folder:
 - cd desired-folder
 git clone https://github.com/Njuraita/Customer_Churn_Prediction_App2.git
 
 
-## Create a virtual environment:
+### Create a virtual environment:
 
 - python -m venv venv
 Activate the virtual environment:
 
-## On Windows:
+### *On Windows*:
 - venv\Scripts\activate
 
-## On macOS/Linux:
+### *On macOS/Linux*:
 - source venv/bin/activate
 
-## Install
+### Install
 
 Install the required packages needed for this project which can be found in the requirements.txt file:
 
