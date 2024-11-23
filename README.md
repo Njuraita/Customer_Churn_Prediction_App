@@ -78,6 +78,7 @@ streamlit run 00_🏠_Home.py
 # 👥 Authors
 
 Sharon Njeri Njuraita
+
 Email: njerisharon06@gmail.com
 
 🙏 Acknowledgments
