@@ -1,0 +1,26 @@
+# Core Libraries
+numpy
+pandas
+
+# Data Visualization Libraries
+matplotlib
+seaborn
+
+# Machine Learning Libraries
+scikit-learn
+
+# Deep Learning Libraries (if applicable)
+tensorflow
+keras
+
+# Model Evaluation Libraries
+scipy
+
+# Other Utilities
+jupyter
+notebook
+streamlit
+
+# Deployment Libraries (if applicable)
+flask
+gunicorn
