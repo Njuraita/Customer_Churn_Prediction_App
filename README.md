@@ -27,7 +27,7 @@ Churn Prediction App provides a platform for predicting the churn status of cust
 - **GUI:** Streamlit
 - **Database:** CSV file for history data
 - **Language:** Python
-- **Model:** Scikit-learn models (Gradient Boosting, Support Vector)
+- **Model:** Scikit-learn models (Gradient Boosting, Label Encoder  Support Vector)
 
 ## Application Features
 - Data application with visualizations for exploratory data and KPIs
@@ -48,11 +48,8 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 - cd desired-folder
-git clone https://github.com/JusticeHanson/GUI-Machine-Learning-App
+git clone https://github.com/Njuraita/Customer_Churn_Prediction_App2.git
 
-# Change into the cloned repository:
-
-- cd ML-Embedding-in-GUI
 
 # Create a virtual environment:
 
@@ -80,7 +77,7 @@ streamlit run 00_🏠_Home.py
 
 # 👥 Authors
 
-Justice Hanson
+Sharon Njeri Njuraita
 
 🙏 Acknowledgments
 I would like to thank all the freely available resources made available online.
