@@ -1,3 +1,4 @@
 /vpack
 config.yaml
 hash_passwords.py
+hash_passwords
