@@ -5,9 +5,12 @@ pandas
 # Data Visualization Libraries
 matplotlib
 seaborn
+plotly
+
 
 # Machine Learning Libraries
 scikit-learn
+imblearn
 
 # Deep Learning Libraries (if applicable)
 tensorflow

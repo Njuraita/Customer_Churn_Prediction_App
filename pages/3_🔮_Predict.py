@@ -1,6 +1,6 @@
-import streamlit as st
 import pandas as pd
 import numpy as np
+import streamlit as st
 from sklearn.base import BaseEstimator, TransformerMixin
 from io import BytesIO
 import joblib
@@ -190,6 +190,7 @@ def input_features():
 
         # Add the submit button
         submitted = st.form_submit_button('Predict')
+        st.form_submit_button() 
         if submitted:
             st.session_state['customer_id'] = customer_id
             st.session_state['gender'] = gender
@@ -245,3 +246,4 @@ if __name__ == '__main__':
             cols = st.columns([.3, .4, .3])
             with cols[1]:
                 st.success('Churn status predicted successfully🎉')
+ 
