@@ -76,9 +76,6 @@ Run the app by executing the command below:
 streamlit run 0_🏠_Home.py
 A webpage opens up to view the app.
 
-Login_page Credentials
-Username : Churn_Classifier_1 ; password CL&331F13R_1
-
 
 ## 👥 Author
 
