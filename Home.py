@@ -48,9 +48,11 @@ def main():
     # Key Features
     st.subheader('Key Features')
     st.markdown("""
-        * **Data View**: Explore and analyze customer data to gain insights into churn patterns.
+        * **Home** : Gives a description of what the Application is all about      
+        * **Data**: Explore and analyze customer data to gain insights into churn patterns.
         * **Dashboard**: Visualize key metrics and trends through interactive charts and graphs.
         * **Predict**: Use our predictive models to estimate the likelihood of customer churn based on various factors.
+        * **Login_page**: Security protected login page for the History page where past view of predictions can be viewed.       
         * **History**: Review past predictions and track changes over time.
         """)
 
