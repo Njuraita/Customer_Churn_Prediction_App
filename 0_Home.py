@@ -21,7 +21,7 @@ st.markdown("""
 def main():
 
 # Add an image to the homepage
-    st.image("images\homeimage.jpeg", use_container_width=True)
+    st.image(r"images/homeimage.jpeg", use_container_width=True)
 
     st.header('Customer Churn Prediction App')
 

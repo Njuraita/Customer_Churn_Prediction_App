@@ -14,7 +14,7 @@ with col2:
 # Load data
 @st.cache_data(persist=True)
 def load_data():
-    data = pd.read_csv('data\cleaned_merged.csv')
+    data = pd.read_csv('data/cleaned_merged.csv')
     return data
 
 # Display data
