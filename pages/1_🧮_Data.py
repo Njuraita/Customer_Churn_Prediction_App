@@ -2,6 +2,15 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
+
+# Function to check if the user is logged in
+def login_check():
+    if 'name' not in st.session_state:
+        st.error("You need to log in to access this page.")
+        return False
+    return True
+
+
 # Configure the page
 st.set_page_config(
     page_title='Data Viewer',
