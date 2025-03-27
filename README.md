@@ -81,7 +81,7 @@ A webpage opens up to view the app.
 
 Sharon Njeri Njuraita
 
-Email: njerisharon06@gmail.com
+Email: sharon.n.njuraita@gmail.com
 
 🙏 Acknowledgments
 I would like to thank all the freely available resources made available online.
