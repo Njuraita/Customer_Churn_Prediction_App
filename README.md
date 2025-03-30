@@ -73,7 +73,7 @@ pip install -r requirements.txt
 
 Run the app by executing the command below:
 
-streamlit run 0_🏠_Home.py
+streamlit run 0_Home.py
 A webpage opens up to view the app.
 
 
